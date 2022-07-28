@@ -22,3 +22,10 @@ if flag == 1:
     print("Element Found")
 else:
     print("Element NOT Found")
+
+    
+    
+if _ _ _ _:
+     _ _ _ _ _ _ _ _
+else:
+     _ _ _ _ _ _ _ _
