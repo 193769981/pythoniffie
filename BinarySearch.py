@@ -10,15 +10,14 @@ flag = 0
 while(lb <= ub):
     mid = (lb + ub) // 2
 
-    if ele == l[mid]:
-        flag = 1
-        break
+    if __________:
+        _________
     elif ele > l[mid]:
         lb = mid + 1
     else:
         ub = mid - 1
 
-if flag == 1:
-    print("Element Found")
+if _ _ _ :
+    _ _ _ _ _ _ _ _ _ _ _ _ 
 else:
-    print("Element NOT Found")
+    _ _ _ _ _ _ _ _ _ _ _ _ 
